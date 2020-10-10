@@ -23,7 +23,8 @@ Though you can just grab and use this if you have same or very similar laptop mo
 
 * Please create [USBMap](https://github.com/corpnewt/USBMap) or `USBPort.kext` (I use Hackintool to do this) after install for best USB plug experience (uncheck SSDT-USBX-LAPTOP in config.plist or remove it when using USBMap/USBPort.kext)
 
-* If you're using BCM9432Z Wifi card... Enable AirportBrcmFixup.kext(wifi) and all BrcmPatchRAM(bluetooth) kexts in config.plist
+* Enable itlwm.kext (wifi) and all IntelBluetoothFirmware + IntelBluetoothInjector (bluetooth) kexts in config.plist
+
 
 * Create one-key cpufriend if you often use battery, power-plug always is not recommended for best performance 
 
