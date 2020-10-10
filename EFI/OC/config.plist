@@ -568,17 +568,6 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>PCI Express x16</string>
-				<key>device_type</key>
-				<string>Display Controller</string>
-				<key>hda-gfx</key>
-				<string>onboard-2</string>
-				<key>name</key>
-				<string>Nvidia GeForce GTX 1050 Ti (Unsupported)</string>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>hda-gfx</key>
@@ -591,21 +580,9 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>CQClPg==</data>
-				<key>AAPL,slot-name</key>
-				<string>Build-in</string>
+				<data>AACbPg==</data>
 				<key>device-id</key>
-				<data>pT4JAA==</data>
-				<key>device-type</key>
-				<string>Display Controller</string>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<data>mz4AAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-memorycount</key>
@@ -622,12 +599,6 @@
 				<data>AAAwAQ==</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>AAAAwA==</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>model</key>
-				<string>Intel UHD Graphics 630 macOS Edition</string>
-				<key>name</key>
-				<string>Display</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
