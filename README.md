@@ -10,8 +10,8 @@ This BIOS is actual only for Asus Rog Strix GL503GE
 
 | | Version |
 | ---: | :--- |
-| ``OpenCore`` | 0.6.3 (Beta) |
-| ``Catalina`` | 10.15.7 (19H2) |
+| ``OpenCore`` | 0.6.3 (RELEASE) |
+| ``Catalina`` | 10.15.7 (19H15) |
 
 ## Disclaimer
 This repository has no other purpose but sharing.
