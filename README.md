@@ -1,4 +1,4 @@
-# Asus Rog Strix GL503GE Hackintosh - OpenCore (10.15.7)
+# Asus Rog Strix GL503GE Hackintosh - OpenCore (Big Sur 11.1)
 **Note: I WILL NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
 Intro
@@ -10,8 +10,8 @@ This BIOS is actual only for Asus Rog Strix GL503GE
 
 | | Version |
 | ---: | :--- |
-| ``OpenCore`` | 0.6.3 (RELEASE) |
-| ``Catalina`` | 10.15.7 (19H15) |
+| ``OpenCore`` | 0.6.4 (RELEASE) |
+| ``Catalina`` | 11.1 (20C69) |
 
 ## Disclaimer
 This repository has no other purpose but sharing.
@@ -55,7 +55,7 @@ Hardware
 | ``Touchpad`` | ELAN Precision Glass | No issues. ACPI should be patched to enable trackpad |
 | ``Dimensions`` | 17.8mm x 235mm x 355mm | |
 | ``Weight`` | 2.21 kg | ACPI patches will not help with this. |
-| ``Power`` | 230W power adapter | |
+| ``Power`` | 200W power adapter | |
 
 Hardware Upgrades and Tools
 ---
